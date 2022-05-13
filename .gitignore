@@ -1,0 +1,5 @@
+#next build dir
+.next/
+
+#react
+node_modules
